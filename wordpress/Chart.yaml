@@ -28,9 +28,7 @@ dependencies:
 - name: mysql
   version: 8.9.2
   repository: https://charts.bitnami.com/bitnami 
-  alias: new-subchart-1
 dependencies:
 - name: memcached
   version: 6.3.0
   repository: https://charts.bitnami.com/bitnami
-  alias: new-subchart-2
